@@ -1,0 +1,2 @@
+const [filteredPosts, setFilteredPosts] = useState([]);
+
